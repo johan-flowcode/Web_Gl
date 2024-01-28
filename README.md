@@ -27,5 +27,5 @@ Este proyecto es una demostración simple de cómo usar Three.js para crear una 
 
 ## 🌐 Ver el Proyecto 
 
-Puedes ver el proyecto en funcionamiento aquí: [Enlace al proyecto](Uhttps://johan-flowcode.github.io/Web_Gl/)
+Puedes ver el proyecto en funcionamiento aquí: [Enlace al proyecto](https://johan-flowcode.github.io/Web_Gl/github.io/Web_Gl/)
 
