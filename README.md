@@ -25,7 +25,4 @@ Este proyecto es una demostración simple de cómo usar Three.js para crear una 
 - `estilo.css`: Define los estilos básicos, principalmente asegurando que el lienzo de WebGL ocupe toda la pantalla.
 - `animacion.js`: Contiene la lógica de Three.js para crear la escena 3D, incluyendo la carga de la imagen y la animación del cubo.
 
-## 🌐 Ver el Proyecto 
-
-Puedes ver el proyecto en funcionamiento aquí: [Enlace al proyecto](https://johan-flowcode.github.io/Web_Gl/github.io/Web_Gl/)
 
